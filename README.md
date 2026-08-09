@@ -15,19 +15,6 @@ Together, these tasks demonstrate the application of data analysis, data visuali
 
 ---
 
-## 🎓 Certificate
-
-I completed the **Deloitte Data Analytics Job Simulation** and received a Certificate of Completion issued through **Forage**.
-
-The simulation covered practical work in:
-
-- Data Analysis
-- Forensic Technology
-
-The certificate and supporting project work are included in this repository.
-
----
-
 # 📊 Task 1 — Daikibo Telemetry Downtime Analysis
 
 ## Overview
