@@ -78,14 +78,6 @@ The dashboard was configured so that selecting a factory in the **Down Time per 
 
 This provides an interactive drill-down from factory performance to the equipment contributing to downtime.
 
-## Dashboard Preview
-
-![Daikibo Telemetry Dashboard](task-1-telemetry-analysis/dashboard-overview.png)
-
-## Highest-Downtime Factory — Seiko
-
-![Seiko Factory Filtered Dashboard](task-1-telemetry-analysis/dashboard-seiko-filtered.png)
-
 ## Tools Used
 
 - Tableau
