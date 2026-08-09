@@ -4,6 +4,26 @@
 ![Data Analytics](https://img.shields.io/badge/Project-Data%20Analytics-orange)
 ![Industry](https://img.shields.io/badge/Industry-Manufacturing-green)
 
+## 📊 Dashboard Preview
+
+### Overall Dashboard
+
+![Daikibo Telemetry Dashboard](dashboard-overview)
+
+### Factory-Level Drill Down
+
+![Seiko Factory Filtered Dashboard](dashboard-seiko-filtered)
+
+## 🔍 Key Findings
+
+The analysis identified significant differences in potential downtime across Daikibo's factories.
+
+- **daikibo-factory-seiko** recorded the highest potential downtime at **480 minutes**.
+- **daikibo-shenzhen** followed with **420 minutes**.
+- **LaserWelder** was the largest contributor to overall device downtime at **480 minutes**.
+- **LaserCutter** contributed **430 minutes** of potential downtime.
+- Selecting a factory in the dashboard dynamically filters the device-level analysis.
+
 ## 📊 Project Overview
 
 This project analyzes industrial telemetry data from **Daikibo Industrials** to identify patterns in machine downtime across its factories and device types.
